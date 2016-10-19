@@ -23,7 +23,7 @@ namespace _00016
         public static Car Create()
         {
             Car car = new Car(2.0, "BMW");
-            Car.iloscKol = 4;
+            Car.iloscKol = 5;
             return car;
         }
         #endregion
